@@ -8,3 +8,10 @@ For initialize a container:
 	docker run --name python-app -p 5000:5000 my-python-app
 to restart the container:
 	docker start container_ID
+		
+		OR
+		
+For creating image from source code:
+	docker-compose build
+For creating comtainer:
+	docker-compose up

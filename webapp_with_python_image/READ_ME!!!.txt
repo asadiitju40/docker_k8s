@@ -14,4 +14,4 @@ to restart the container:
 For creating image from source code:
 	docker-compose build
 For creating comtainer:
-	docker-compose up
+	docker-compose up -d

@@ -9,7 +9,7 @@ For initialize a container:
 to restart the container:
 	docker start container_ID
 		
-		OR
+---------------using docker-compose-----------
 		
 For creating image from source code:
 	docker-compose build
